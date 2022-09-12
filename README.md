@@ -3,6 +3,5 @@ A web application for detecting fake news from real ones utilizing Natural Langu
 
 This is the Flask verison, please see the other branch for the Django version.
 
-The app is deployed on Heroku, with [link](https://fakenewsdetectorflask.herokuapp.com/).  
-Feel free to use the API I published on [RapidAPI](https://rapidapi.com/fangyiyu/api/fake-news-detection1/).
+The app is deployed on Heroku, with [link]().  
 # fake-news-detector
